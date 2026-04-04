@@ -17,7 +17,10 @@ As a Full-Stack Developer and future AI Engineer, my goal is to create intellige
 ![](https://github-readme-activity-graph.vercel.app/graph?username=omar-h-Hashmi-rgb&theme=github-dark)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=omar-h-Hashmi-rgb&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<br/>
+
+![](https://github-profile-trophy.vercel.app/?username=omar-h-Hashmi-rgb&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=6)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
