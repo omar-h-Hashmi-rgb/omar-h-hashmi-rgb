@@ -1,7 +1,7 @@
 # 💫 About Me:
-I am a Final IT student at KJ Somaiya, Mumbai with 8 startup internships across full stack development, machine learning, and AI engineering.
+I am a Final IT student at KJ Somaiya, Mumbai with 11 startup across full stack development, machine learning, and AI engineering.
 On the engineering side I have built and shipped production grade products end to end — a live app on Google Play, SaaS platforms handling real payment flows, a sub-millisecond FastAPI trading gateway, and client websites in production. My stack is Python, FastAPI, React, Next.js, Node.js, Firebase, Supabase, MongoDB and Docker.
-On the AI and ML side I was selected for Projects to Contribute In two of the best YC ML labs  where I built tabular ML pipelines, stacked LightGBM, XGBoost and CatBoost with rank based ensembling, and fine-tuned DeBERTa v3 with custom PyTorch training loops. I have also built RAG based assistants, Gemini AI powered platforms, and NLP driven task systems.
+On the AI and ML side I was selected for Projects to Contribute In two of the best YC ML labs  where I built tabular ML pipelines, stacked LightGBM, XGBoost and CatBoost with rank based ensembling, and fine-tuned DeBERTa v3 with custom PyTorch training loops. I have also built RAG based assistants, AI powered platforms, and NLP driven task systems.
 Across 8 internships I have worked directly with founders, taken ownership of features from zero to production, and operated in fast moving teams where I had to figure things out without being told every next step.
 I am currently open to roles in full stack development, applied AI, or product engineering at early stage startups where I can build things that actually matter.
 
