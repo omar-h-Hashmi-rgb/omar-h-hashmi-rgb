@@ -1,30 +1,220 @@
-# 💫 About Me:
-I am a Final IT student at KJ Somaiya, Mumbai with 11 startup across full stack development, machine learning, and AI engineering.
-On the engineering side I have built and shipped production grade products end to end — a live app on Google Play, SaaS platforms handling real payment flows, a sub-millisecond FastAPI trading gateway, and client websites in production. My stack is Python, FastAPI, React, Next.js, Node.js, Firebase, Supabase, MongoDB and Docker.
-On the AI and ML side I was selected for Projects to Contribute In two of the best YC ML labs  where I built tabular ML pipelines, stacked LightGBM, XGBoost and CatBoost with rank based ensembling, and fine-tuned DeBERTa v3 with custom PyTorch training loops. I have also built RAG based assistants, AI powered platforms, and NLP driven task systems.
-Across 8 internships I have worked directly with founders, taken ownership of features from zero to production, and operated in fast moving teams where I had to figure things out without being told every next step.
-I am currently open to roles in full stack development, applied AI, or product engineering at early stage startups where I can build things that actually matter.
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Omar+Hashmi;Full+Stack+%2B+AI%2FML+Software+Engineer;Building+at+15+startups+%7C+25%2B+products+shipped;2x+Hackathon+Winner+%7C+YC+W24+%2F+W25" alt="Typing SVG" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-hashmi-236b79351/) [![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=vercel&logoColor=white)](https://omar-portfolio-modern.vercel.app/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omarhashmi494@gmail.com)
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Esbuild](https://img.shields.io/badge/esbuild-%23FFCF00.svg?style=for-the-badge&logo=esbuild&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=omar-h-Hashmi-rgb&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=omar-h-Hashmi-rgb&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=omar-h-Hashmi-rgb&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-## 🏆 GitHub Trophies
+<table>
+<tr>
+<td width="60%" valign="middle">
+
+### 🚀 About Me
+
+I'm a final-year **Information Technology** student at **KJ Somaiya College of Engineering, Mumbai** (CGPA 9.36/10), and a Full Stack + AI Software Engineer who likes owning things end to end — problem → architecture → code → production.
+
+- 🏢 Worked across **15 startups**, shipping **25+ production products** in fintech, healthcare, e-commerce, real estate, and AI
+- 🧠 ML Contributor at **Shipd.ai (YC W24)** and Full Stack Engineer at **AfterQuery Experts (YC W25)**
+- 🏆 **2x Hackathon Winner**, top-10 finishes in 2 more
+- 📱 Took **Trescend** from idea to production on the **Google Play Store**
+- 🛠️ Daily stack: **React / Next.js / TypeScript / Node.js / Python / FastAPI**, with AI work spanning **RAG, NLP, and fine-tuned transformers**
+
+</td>
+<td width="40%">
+
+<img src="https://media.giphy.com/media/1n92hYPiFQ0efcCtrF/giphy.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 🔗 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-hashmi-236b79351/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://omar-portfolio-modern.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omarhashmi494@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER_HANDLE)
+
+<!-- ⚠️ Replace YOUR_TWITTER_HANDLE above with your actual handle -->
+
+![Profile Views](https://komarev.com/ghpvc/?username=omar-h-Hashmi-rgb&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS)
+
+</div>
 
 <br/>
 
-![](https://github-profile-trophy.vercel.app/?username=omar-h-Hashmi-rgb&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=6)
+## 🧰 Skills
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
 
----
-[![](https://visitcount.itsvg.in/api?id=omar-h-Hashmi-rgb&icon=0&color=0)](https://visitcount.itsvg.in)
+**Programming Languages**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+**Frontend Development**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Backend Development**
+
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+
+**Mobile App Development**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**AI / ML**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge)
+![LightGBM](https://img.shields.io/badge/LightGBM-9ACD32?style=for-the-badge)
+
+**Databases**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
+
+**Backend as a Service (BaaS)**
+
+![Firebase](https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+**DevOps & Cloud**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+**Software & Tools**
+
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+
+</div>
+
+<br/>
+
+## 💼 Experience
+
+<details>
+<summary><b>Click to expand — 15 startups, Jun 2025 to present</b></summary>
+<br/>
+
+| Company | Role | Duration |
+|---|---|---|
+| AfterQuery Experts *(YC W25)* | Mid-Level Full Stack Engineer | May 2026 – Present |
+| Shipd.ai by Datacurve *(YC W24)* | ML Contributor | Mar 2026 – Present |
+| International Credit Score | Full Stack Software Engineer | Jan 2026 – May 2026 |
+| MeterNote | Full Stack Engineer | Dec 2025 – May 2026 |
+| Billbandhu | Mobile Application Developer | Mar 2026 – Apr 2026 |
+| DigiClues | Mobile Application Developer | Dec 2025 – Mar 2026 |
+| Wajo AI | Technical Ambassador | 2026 |
+| oll.co | AI Agent Developer | Nov 2025 – Dec 2025 |
+| Ushree | AI Agent Developer | Nov 2025 – Dec 2025 |
+| Sleeksky | Web Developer | Dec 2025 |
+| Trescend Corporation | Full Stack Developer | Sep 2025 – Nov 2025 |
+| Ashna AI | Frontend Developer | Jul 2025 – Sep 2025 |
+| ScholarRank AI | Frontend Developer | Jul 2025 – Sep 2025 |
+| Smowcode | Software Developer | Jun 2025 – Jul 2025 |
+
+</details>
+
+<br/>
+
+## 🌟 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **[Trescend](https://play.google.com/store)** | Full-stack idea-sharing platform, built to production on the Play Store | React Native, Node.js, Payments |
+| **[Automod CRM](#)** | Multi-tier automotive service CRM — job assignment, inventory, invoicing, role-based access | Next.js, Node.js, PostgreSQL |
+| **[Aarogyo](#)** | Healthcare platform with doctor/staff/admin portals and AI-powered medical report analysis | Next.js, OCR, AI |
+| **[Sponsorship Jobs](#)** | Jobs platform optimized with caching, query tuning, and Supabase Edge Functions | Next.js, Supabase, Stripe |
+| **[Barakahunt](#)** | Matching platform for the Muslim startup ecosystem — founders, investors, operators | React, Node.js |
+| **[Billbandhu](https://play.google.com/store)** | AI-powered billing, inventory, credit & GST app for Indian retailers | Flutter, Firebase, Razorpay |
+
+<sub>Swap the `#` links above for your live project URLs.</sub>
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=omar-h-Hashmi-rgb&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-h-Hashmi-rgb&layout=compact&theme=radical&hide_border=true" width="30%"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=omar-h-Hashmi-rgb&theme=radical&hide_border=true" width="70%"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=omar-h-Hashmi-rgb&theme=react-dark&hide_border=true&area=true" width="90%"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=omar-h-Hashmi-rgb&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="90%"/>
+
+</div>
+
+> **Note on reliability:** the widgets above call Anthropic-unrelated free public services (`vercel.app` demo instances) that get rate-limited when too many profiles use them at once — this is almost certainly why your old badges were showing blank. I've included a self-hosted backup below that fixes this permanently by generating the same data as a static image stored in your own repo, so it never depends on someone else's server being up.
+
+<br/>
+
+## 🔥 Currently
+
+<table>
+<tr>
+<td width="40%">
+<img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" width="100%"/>
+</td>
+<td width="60%" valign="middle">
+
+- 🔭 Building evaluation benchmarks for frontier AI labs at **AfterQuery**
+- 🧪 Designing ML pipelines and fine-tuning transformers at **Shipd.ai**
+- 🌱 Exploring agentic workflows, RAG, and applied AI systems
+- 🎯 Open to full-stack, applied AI, and product engineering roles — **UK & US relocation welcome**
+- 📫 Reach me at **omarhashmi494@gmail.com**
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+*⭐️ Thanks for stopping by — always open to a chat about interesting problems.*
+
+</div>
