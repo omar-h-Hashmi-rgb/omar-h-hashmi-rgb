@@ -171,7 +171,7 @@ I'm a final-year **Information Technology** student at **KJ Somaiya College of E
 
 **📈 Stats**
 
-<img src="https://github-stats-extended.vercel.app/api?username=omar-h-Hashmi-rgb&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&card_width=400" width="100%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=omar-h-Hashmi-rgb&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&hide=issues&card_width=400" width="100%"/>
 
 </td>
 <td width="50%" align="center">
