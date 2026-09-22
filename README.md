@@ -13,9 +13,9 @@
 I'm a final-year **Information Technology** student at **KJ Somaiya College of Engineering, Mumbai** (CGPA 9.36/10), and a Full Stack + AI Software Engineer who likes owning things end to end — problem → architecture → code → production.
 
 - 🏢 Worked across **15 startups**, shipping **25+ production products** in fintech, healthcare, e-commerce, real estate, and AI
-- 🧠 ML Contributor at **Shipd.ai (YC W24)** and Full Stack Engineer at **AfterQuery Experts (YC W25)**
+- 🧠 ML Contributor at **Shipd.ai (YC W24)**
 - 🏆 **2x Hackathon Winner**, top-10 finishes in 2 more
-- 📱 Took **Trescend** from idea to production on the **Google Play Store**
+- 📱 Shipped multiple mobile apps to production, including apps live on the **Google Play Store**
 - 🛠️ Daily stack: **React / Next.js / TypeScript / Node.js / Python / FastAPI**, with AI work spanning **RAG, NLP, and fine-tuned transformers**
 
 </td>
@@ -34,11 +34,9 @@ I'm a final-year **Information Technology** student at **KJ Somaiya College of E
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-hashmi-236b79351/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://omar-portfolio-modern.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omarhashmi494@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER_HANDLE)
-
-<!-- ⚠️ Replace YOUR_TWITTER_HANDLE above with your actual handle -->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=omar-h-Hashmi-rgb&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS)
+![Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=REPOSITORIES&color=6C63FF&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fomar-h-Hashmi-rgb)
 
 </div>
 
@@ -127,45 +125,15 @@ I'm a final-year **Information Technology** student at **KJ Somaiya College of E
 
 <br/>
 
-## 💼 Experience
-
-<details>
-<summary><b>Click to expand — 15 startups, Jun 2025 to present</b></summary>
-<br/>
-
-| Company | Role | Duration |
-|---|---|---|
-| AfterQuery Experts *(YC W25)* | Mid-Level Full Stack Engineer | May 2026 – Present |
-| Shipd.ai by Datacurve *(YC W24)* | ML Contributor | Mar 2026 – Present |
-| International Credit Score | Full Stack Software Engineer | Jan 2026 – May 2026 |
-| MeterNote | Full Stack Engineer | Dec 2025 – May 2026 |
-| Billbandhu | Mobile Application Developer | Mar 2026 – Apr 2026 |
-| DigiClues | Mobile Application Developer | Dec 2025 – Mar 2026 |
-| Wajo AI | Technical Ambassador | 2026 |
-| oll.co | AI Agent Developer | Nov 2025 – Dec 2025 |
-| Ushree | AI Agent Developer | Nov 2025 – Dec 2025 |
-| Sleeksky | Web Developer | Dec 2025 |
-| Trescend Corporation | Full Stack Developer | Sep 2025 – Nov 2025 |
-| Ashna AI | Frontend Developer | Jul 2025 – Sep 2025 |
-| ScholarRank AI | Frontend Developer | Jul 2025 – Sep 2025 |
-| Smowcode | Software Developer | Jun 2025 – Jul 2025 |
-
-</details>
-
-<br/>
-
 ## 🌟 Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
-| **[Trescend](https://play.google.com/store)** | Full-stack idea-sharing platform, built to production on the Play Store | React Native, Node.js, Payments |
-| **[Automod CRM](#)** | Multi-tier automotive service CRM — job assignment, inventory, invoicing, role-based access | Next.js, Node.js, PostgreSQL |
-| **[Aarogyo](#)** | Healthcare platform with doctor/staff/admin portals and AI-powered medical report analysis | Next.js, OCR, AI |
-| **[Sponsorship Jobs](#)** | Jobs platform optimized with caching, query tuning, and Supabase Edge Functions | Next.js, Supabase, Stripe |
-| **[Barakahunt](#)** | Matching platform for the Muslim startup ecosystem — founders, investors, operators | React, Node.js |
-| **[Billbandhu](https://play.google.com/store)** | AI-powered billing, inventory, credit & GST app for Indian retailers | Flutter, Firebase, Razorpay |
-
-<sub>Swap the `#` links above for your live project URLs.</sub>
+| **[Trescend](https://play.google.com/store/apps/details?id=app.web.inscend_78175.twa&hl=en_IN)** *(Play Store)* | Full-stack idea-sharing platform, built to production on the Play Store | React Native, Node.js, Payments |
+| **[Automod CRM](https://automodcrm.com/)** | Multi-tier automotive service CRM — job assignment, inventory, invoicing, role-based access | Next.js, Node.js, PostgreSQL |
+| **[Aarogyo](https://aarogyo.com/)** | Healthcare platform with doctor/staff/admin portals and AI-powered medical report analysis | Next.js, OCR, AI |
+| **[Sponsorship Jobs](https://sponsorshipjobs.io/)** | Jobs platform optimized with caching, query tuning, and Supabase Edge Functions | Next.js, Supabase, Stripe |
+| **[Barakahunt](https://www.barakahunt.com/)** | Matching platform for the Muslim startup ecosystem — founders, investors, operators | React, Node.js |
 
 <br/>
 
@@ -173,24 +141,15 @@ I'm a final-year **Information Technology** student at **KJ Somaiya College of E
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=omar-h-Hashmi-rgb&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-h-Hashmi-rgb&layout=compact&theme=radical&hide_border=true" width="30%"/>
+<img src="./github-metrics.svg" width="100%"/>
 
 <br/>
 
 <img src="https://streak-stats.demolab.com/?user=omar-h-Hashmi-rgb&theme=radical&hide_border=true" width="70%"/>
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=omar-h-Hashmi-rgb&theme=react-dark&hide_border=true&area=true" width="90%"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=omar-h-Hashmi-rgb&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="90%"/>
-
 </div>
 
-> **Note on reliability:** the widgets above call Anthropic-unrelated free public services (`vercel.app` demo instances) that get rate-limited when too many profiles use them at once — this is almost certainly why your old badges were showing blank. I've included a self-hosted backup below that fixes this permanently by generating the same data as a static image stored in your own repo, so it never depends on someone else's server being up.
+> The block above (`github-metrics.svg`) is generated by the GitHub Action in your repo (`.github/workflows/metrics.yml`) — it covers your stats, top languages, repo count, and contribution calendar in one self-hosted image so it never depends on a third-party server being up. If you haven't run that workflow yet, do that first (Actions tab → "Update Profile Metrics" → Run workflow) and this section will populate.
 
 <br/>
 
@@ -203,7 +162,7 @@ I'm a final-year **Information Technology** student at **KJ Somaiya College of E
 </td>
 <td width="60%" valign="middle">
 
-- 🔭 Building evaluation benchmarks for frontier AI labs at **AfterQuery**
+- 🔭 Building evaluation benchmarks for frontier AI labs at a YC W25 startup
 - 🧪 Designing ML pipelines and fine-tuning transformers at **Shipd.ai**
 - 🌱 Exploring agentic workflows, RAG, and applied AI systems
 - 🎯 Open to full-stack, applied AI, and product engineering roles — **UK & US relocation welcome**
