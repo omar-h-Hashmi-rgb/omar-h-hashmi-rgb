@@ -124,6 +124,12 @@ I'm a final-year **Information Technology** student at **KJ Somaiya College of E
 
 <br/>
 
+## 💼 Experience
+
+AfterQuery Experts *(YC W25)* — Mid-Level Full Stack Engineer · Shipd.ai *(YC W24)* — ML Contributor · International Credit Score — Full Stack Software Engineer · MeterNote — Full Stack Engineer · Billbandhu — Mobile Application Developer · DigiClues — Mobile Application Developer · Wajo AI — Technical Ambassador · oll.co — AI Agent Developer · Ushree — AI Agent Developer · Sleeksky — Web Developer · Trescend Corporation — Full Stack Developer · Ashna AI — Frontend Developer · ScholarRank AI — Frontend Developer · Smowcode — Software Developer
+
+<br/>
+
 ## 🌟 Featured Projects
 
 | Project | Description | Stack |
@@ -144,18 +150,19 @@ I'm a final-year **Information Technology** student at **KJ Somaiya College of E
 
 **📈 Stats**
 
-<img src="https://github-readme-stats.vercel.app/api?username=omar-h-Hashmi-rgb&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&card_width=400" width="100%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=omar-h-Hashmi-rgb&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&card_width=400" width="100%"/>
 
 </td>
 <td width="50%" align="center">
 
 **🧠 Top Languages**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-h-Hashmi-rgb&layout=compact&theme=radical&hide_border=true&card_width=400" width="100%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=omar-h-Hashmi-rgb&layout=compact&theme=radical&hide_border=true&card_width=400" width="100%"/>
 
 </td>
 </tr>
 </table>
+
 
 <p align="center">
 <b>🔥 Streak</b><br/>
@@ -163,11 +170,13 @@ I'm a final-year **Information Technology** student at **KJ Somaiya College of E
 </p>
 
 <p align="center">
-<b>🏆 Trophies</b><br/>
-<img src="https://github-profile-trophy.vercel.app/?username=omar-h-Hashmi-rgb&theme=radical&no-frame=true&no-bg=true&margin-w=12&row=1&column=6" width="85%"/>
+<b>🏆 Achievements</b><br/><br/>
+<img src="https://img.shields.io/badge/🏆_Hackathons-2x_Winner-FFD700?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/YC-W24-FF6600?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/YC-W25-FF6600?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Startups-15-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Products_Shipped-25%2B-6C63FF?style=for-the-badge"/>
 </p>
-
-<sub align="center">These pull live from free public services — if one ever renders blank, refresh the page; it's a temporary load issue on their end, not a broken link.</sub>
 
 <br/>
 
