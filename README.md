@@ -126,7 +126,28 @@ I'm a final-year **Information Technology** student at **KJ Somaiya College of E
 
 ## 💼 Experience
 
-AfterQuery Experts *(YC W25)* — Mid-Level Full Stack Engineer · Shipd.ai *(YC W24)* — ML Contributor · International Credit Score — Full Stack Software Engineer · MeterNote — Full Stack Engineer · Billbandhu — Mobile Application Developer · DigiClues — Mobile Application Developer · Wajo AI — Technical Ambassador · oll.co — AI Agent Developer · Ushree — AI Agent Developer · Sleeksky — Web Developer · Trescend Corporation — Full Stack Developer · Ashna AI — Frontend Developer · ScholarRank AI — Frontend Developer · Smowcode — Software Developer
+<details>
+<summary><b>Click to expand — 15 startups</b></summary>
+<br/>
+
+| Company | Role |
+|---|---|
+| Frontier AI Lab *(YC W25)* | Mid-Level Full Stack Engineer |
+| Shipd.ai *(YC W24)* | ML Contributor |
+| International Credit Score | Full Stack Software Engineer |
+| MeterNote | Full Stack Engineer |
+| Billbandhu | Mobile Application Developer |
+| DigiClues | Mobile Application Developer |
+| Wajo AI | Technical Ambassador |
+| oll.co | AI Agent Developer |
+| Ushree | AI Agent Developer |
+| Sleeksky | Web Developer |
+| Trescend Corporation | Full Stack Developer |
+| Ashna AI | Frontend Developer |
+| ScholarRank AI | Frontend Developer |
+| Smowcode | Software Developer |
+
+</details>
 
 <br/>
 
@@ -190,7 +211,7 @@ AfterQuery Experts *(YC W25)* — Mid-Level Full Stack Engineer · Shipd.ai *(YC
 <td width="60%" valign="middle">
 
 - 🔭 Building evaluation benchmarks for frontier AI labs at a YC W25 startup
-- 🧪 Designing ML pipelines and fine-tuning transformers at **Shipd.ai**
+- 🧪 Designing ML pipelines and fine-tuning transformers at **Shipd.ai (YCW24)**
 - 🌱 Exploring agentic workflows, RAG, and applied AI systems
 - 🎯 Open to full-stack, applied AI, and product engineering roles — **UK & US relocation welcome**
 - 📫 Reach me at **omarhashmi494@gmail.com**
