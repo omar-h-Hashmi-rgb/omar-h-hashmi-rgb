@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Omar+Hashmi;Full+Stack+%2B+AI%2FML+Software+Engineer;Building+at+15+startups+%7C+25%2B+products+shipped;2x+Hackathon+Winner+%7C+YC+W24+%2F+W25" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=6C63FF&center=true&vCenter=true&width=850&lines=Hi+there%2C+I'm+Omar+Hashmi;Full+Stack+%2B+AI%2FML+Software+Engineer;Building+at+15+startups+%7C+15%2B+production+products;2x+Hackathon+Winner+%7C+YC+W24+%2F+W25" alt="Typing SVG" />
 
 </div>
 
@@ -12,7 +12,7 @@
 
 I'm a final-year **Information Technology** student at **KJ Somaiya College of Engineering, Mumbai** (CGPA 9.36/10), and a Full Stack + AI Software Engineer who likes owning things end to end — problem → architecture → code → production.
 
-- 🏢 Worked across **15 startups**, shipping **25+ production products** in fintech, healthcare, e-commerce, real estate, and AI
+- 🏢 Worked across **15 startups**, shipping **15+ production products** in fintech, healthcare, e-commerce, real estate, and AI
 - 🧠 ML Contributor at **Shipd.ai (YC W24)**
 - 🏆 **2x Hackathon Winner**, top-10 finishes in 2 more
 - 📱 Shipped multiple mobile apps to production, including apps live on the **Google Play Store**
@@ -196,7 +196,7 @@ I'm a final-year **Information Technology** student at **KJ Somaiya College of E
 <img src="https://img.shields.io/badge/YC-W24-FF6600?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/YC-W25-FF6600?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Startups-15-6C63FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Products_Shipped-25%2B-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Production_Products-15%2B-6C63FF?style=for-the-badge"/>
 </p>
 
 <br/>
