@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-I'm a final-year **Information Technology** student at **KJ Somaiya College of Engineering, Mumbai** (CGPA 9.36/10), and a Full Stack + AI Software Engineer who likes owning things end to end — problem → architecture → code → production.
+I'm a final-year **Information Technology** student at **KJ Somaiya College of Engineering, Mumbai** and a Full Stack + AI Software Engineer who likes owning things end to end — problem → architecture → code → production.
 
 - 🏢 Worked across **15 startups**, shipping **15+ production products** in fintech, healthcare, e-commerce, real estate, and AI
 - 🧠 ML Contributor at **Shipd.ai (YC W24)**
