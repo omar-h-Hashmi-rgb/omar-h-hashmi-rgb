@@ -134,6 +134,7 @@ I'm a final-year **Information Technology** student at **KJ Somaiya College of E
 |---|---|
 | Frontier AI Lab *(YC W25)* | Mid-Level Full Stack Engineer |
 | Shipd.ai *(YC W24)* | ML Contributor |
+| Deccan AI *(A91 Ventures)* | Terminal Bench Expert |
 | International Credit Score | Full Stack Software Engineer |
 | MeterNote | Full Stack Engineer |
 | Billbandhu | Mobile Application Developer |
